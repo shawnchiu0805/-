@@ -1586,7 +1586,10 @@ article img.pull-right, article .align-right{
 
 @media (max-width: 767px) {
 	/*廣告輪播*/
-.banner{display:none;}
+/*.banner{display:none;}*/
+.carousel-control .glyphicon-chevron-left{display:none;}
+.carousel-control .glyphicon-chevron-right{display:none;}
+
 /*廣告輪播*/
 	
 	
